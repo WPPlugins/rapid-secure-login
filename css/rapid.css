@@ -1,0 +1,25 @@
+.rpsl_qr_div {
+	text-align: center;
+	width:300px;
+}
+
+.rpsl_qr_backend_div{
+	text-align:center;
+}
+
+.rpsl_logo_img_click {
+	cursor   : pointer;
+	cursor   : hand;
+}
+
+.rpsl_login_error {
+	color:red;
+}
+
+.rpsl_outer_div img{
+	display:inline;
+}
+
+.rpsl_qr_message{
+	font-weight: bold;
+}
